@@ -1,0 +1,12 @@
+D:\GitHub\FinalProject\School\BLL\bin\Debug\BLL.dll
+D:\GitHub\FinalProject\School\BLL\bin\Debug\BLL.pdb
+D:\GitHub\FinalProject\School\BLL\bin\Debug\DAL.dll
+D:\GitHub\FinalProject\School\BLL\bin\Debug\EntityFramework.dll
+D:\GitHub\FinalProject\School\BLL\bin\Debug\DAL.pdb
+D:\GitHub\FinalProject\School\BLL\bin\Debug\DAL.dll.config
+D:\GitHub\FinalProject\School\BLL\bin\Debug\EntityFramework.xml
+D:\GitHub\FinalProject\School\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\GitHub\FinalProject\School\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\GitHub\FinalProject\School\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\GitHub\FinalProject\School\BLL\obj\Debug\BLL.dll
+D:\GitHub\FinalProject\School\BLL\obj\Debug\BLL.pdb

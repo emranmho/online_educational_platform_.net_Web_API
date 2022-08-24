@@ -1,0 +1,10 @@
+D:\GitHub\FinalProject\School\DAL\bin\Debug\DAL.dll.config
+D:\GitHub\FinalProject\School\DAL\bin\Debug\DAL.dll
+D:\GitHub\FinalProject\School\DAL\bin\Debug\DAL.pdb
+D:\GitHub\FinalProject\School\DAL\bin\Debug\EntityFramework.dll
+D:\GitHub\FinalProject\School\DAL\bin\Debug\EntityFramework.xml
+D:\GitHub\FinalProject\School\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\GitHub\FinalProject\School\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\GitHub\FinalProject\School\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\GitHub\FinalProject\School\DAL\obj\Debug\DAL.dll
+D:\GitHub\FinalProject\School\DAL\obj\Debug\DAL.pdb
